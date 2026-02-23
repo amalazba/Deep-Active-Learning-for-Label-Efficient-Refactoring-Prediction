@@ -1,4 +1,4 @@
-# TB-Stacking Ensemble: Repository Contents
+# DAL: Repository Contents
 
 This repository contains the implementation, features, and results of a Deep Active Learning for Label-Efficient Refactoring Prediction developed for predicting refactoring opportunities at the class, method, and variable levels.
 
