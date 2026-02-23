@@ -5,10 +5,8 @@ This repository contains the implementation, features, and results of a Deep Act
 ## 📁 Repository Structure and Content
 
 ### 1. Code
-- A Jupyter notebook `TBStacking_Ensemble v8.ipynb` implementing the TB-Stacking ensemble model.
+- A Jupyter notebook `Refactoring_DAL.ipynb` implementing the DAL stratigies.
 - Performs binary classification for refactoring prediction at three levels: class, method, and variable.
-- Uses tree-based classifiers as base and meta learners.
-- Includes cross-validation and feature selection.
 
 ### 2. The dataset
 The dataset, can be downloaded from here (https://www.dropbox.com/s/p5l4kmr9ac38q0k/datasets.zip?dl=0)
